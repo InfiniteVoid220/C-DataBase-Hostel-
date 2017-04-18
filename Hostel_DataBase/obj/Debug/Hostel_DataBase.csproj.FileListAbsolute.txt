@@ -1,0 +1,49 @@
+d:\andrey\documents\visual studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.exe.config
+d:\andrey\documents\visual studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.exe
+d:\andrey\documents\visual studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.pdb
+d:\andrey\documents\visual studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.csprojResolveAssemblyReference.cache
+d:\andrey\documents\visual studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Properties.Resources.resources
+d:\andrey\documents\visual studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.csproj.GenerateResource.Cache
+d:\andrey\documents\visual studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.exe
+d:\andrey\documents\visual studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.pdb
+d:\Andrey\Documents\Visual Studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Form1.resources
+d:\Andrey\Documents\Visual Studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Account_Settlement.resources
+d:\andrey\documents\visual studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Rooms_Table.resources
+d:\andrey\documents\visual studio 2013\Projects\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Payment.resources
+c:\Hostel_DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.exe.config
+c:\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.exe
+c:\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.pdb
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.exe.config
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.exe
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.pdb
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.csprojResolveAssemblyReference.cache
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Account_Settlement.resources
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Form1.resources
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Form2.resources
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Payment.resources
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Properties.Resources.resources
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Rooms_Table.resources
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.csproj.GenerateResource.Cache
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.exe
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.pdb
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\RdlCompile.cache
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\RdlCompile.compiled
+d:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Groups.resources
+D:\Andrey\Documents\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Rooms_Form.resources
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.exe.config
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.exe
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.pdb
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.exe
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.pdb
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.csprojResolveAssemblyReference.cache
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Account_Settlement.resources
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Form1.resources
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Form2.resources
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Groups.resources
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Payment.resources
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Properties.Resources.resources
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Rooms_Form.resources
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Rooms_Table.resources
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.csproj.GenerateResource.Cache
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\RdlCompile.cache
+c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\RdlCompile.compiled
