@@ -47,3 +47,20 @@ c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj
 c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.csproj.GenerateResource.Cache
 c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\RdlCompile.cache
 c:\Звіт з бд Гуртожиток(C#)\Hostel_DataBase\Hostel_DataBase\obj\Debug\RdlCompile.compiled
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.exe.config
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.exe
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.pdb
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.exe
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\bin\Debug\Hostel_DataBase.pdb
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.csprojResolveAssemblyReference.cache
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Account_Settlement.resources
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Form1.resources
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Form2.resources
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Groups.resources
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Payment.resources
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Properties.Resources.resources
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Rooms_Form.resources
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.Rooms_Table.resources
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\Hostel_DataBase.csproj.GenerateResource.Cache
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\RdlCompile.cache
+F:\Хлам\C#\C-sharp-Hostel-DataBase\Hostel_DataBase\obj\Debug\RdlCompile.compiled

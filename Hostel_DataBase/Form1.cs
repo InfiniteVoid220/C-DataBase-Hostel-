@@ -37,6 +37,7 @@ namespace Hostel_DataBase
                 ((Label)Controls.Find("label" + Previous_Tab, true)[0]).ForeColor = Color.FromArgb(110, 110, 110);
                 ((Panel)Controls.Find("panel" + tab_number, true)[0]).BackColor = Color.FromArgb(r,g,b);
                 ((Label)Controls.Find("label" + tab_number, true)[0]).ForeColor = Color.White;
+               // SASDASFADSGSFGH GHJ JKLKL;''
                 frm.TopLevel = false;
                 frm.FormBorderStyle = FormBorderStyle.None;
                 frm.WindowState = FormWindowState.Maximized;
